@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-lesson-03-image-finder/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-lesson-03-image-finder/static/js/main.dfb87eee.js",
-    "index.html": "/goit-react-lesson-03-image-finder/index.html",
-    "main.7acaea2f.css.map": "/goit-react-lesson-03-image-finder/static/css/main.7acaea2f.css.map",
-    "main.dfb87eee.js.map": "/goit-react-lesson-03-image-finder/static/js/main.dfb87eee.js.map"
+    "main.css": "/goit-react-lesson-03-pokemons-finder/static/css/main.0f309e2f.css",
+    "main.js": "/goit-react-lesson-03-pokemons-finder/static/js/main.af28d928.js",
+    "index.html": "/goit-react-lesson-03-pokemons-finder/index.html",
+    "main.0f309e2f.css.map": "/goit-react-lesson-03-pokemons-finder/static/css/main.0f309e2f.css.map",
+    "main.af28d928.js.map": "/goit-react-lesson-03-pokemons-finder/static/js/main.af28d928.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.dfb87eee.js"
+    "static/css/main.0f309e2f.css",
+    "static/js/main.af28d928.js"
   ]
 }
